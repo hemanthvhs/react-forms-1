@@ -1,0 +1,8 @@
+.Form label,
+.Form input {
+  margin-right: 2rem;
+}
+
+.Form input {
+  border-radius: 2px;
+}
